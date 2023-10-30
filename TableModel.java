@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author salma
+ * @author MJ
  */
 public class TableModel extends AbstractTableModel {
      // Mendefinisikan nama-nama kolom
